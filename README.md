@@ -4,6 +4,7 @@ A course on reinforcement learning in the wild.
 Taught on-campus in [HSE](https://cs.hse.ru) and [Yandex SDA](https://yandexdataschool.com) (russian) and maintained to be friendly to online students (both english and russian).
 
 __Note:__ There's a fall'17 update of this course currently in progress in [fall17](https://github.com/yandexdataschool/Practical_RL/tree/fall17) branch.
+__Note:__ OpenAI website seems to be [down](https://twitter.com/gdb/status/907855318591438848) and plans to stay there. Unless they reconsider - which they hopefully will - we'll have find some way to replace gym upload assignments. Fingers crossed.
 
 #### Manifesto:
 * __Optimize for the curious.__ For all the materials that aren’t covered in detail there are links to more information and related materials (D.Silver/Sutton/blogs/whatever). Assignments will have bonus sections if you want to dig deeper.
