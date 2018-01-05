@@ -50,7 +50,7 @@ youtube-dl https://www.youtube.com/watch?v=G5RY_SUJih4 --output week7_\[recap\]_
 youtube-dl https://www.youtube.com/watch?v=yCqPMD6coO8 --output week7_pomdp/Lecture_Ng.mp4
 
 #week8
-#TODO
+youtube-dl https://www.youtube.com/watch?v=fZNyHoXgV7M --output week8_seq2seq/Lecture_M_Norouzi.mp4
 
 #week9
 youtube-dl https://www.youtube.com/watch?v=_t5fpZuuf-4 --output week9_policy_II/Lecture_Schulmann.mp4
