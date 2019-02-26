@@ -1,6 +1,6 @@
 ## Materials
-* [__Lecture slides__](https://yadi.sk/i/6Bq-X58o3Mzenn)
-* Our videos from last term: [lecture](https://yadi.sk/i/cVawsPkK3EtGJj),[seminar](https://yadi.sk/i/dQmolwOy3EtGNK) (russian)
+* [__Lecture slides__](https://docs.google.com/presentation/d/1Tnt4w0DDCwgGIo8Dh9-004veILxHekXOlTddmz0O5Tc/edit?usp=sharing)
+* Our videos: [lecture](https://yadi.sk/i/PeaLQ3IG3SeZML) [seminar](https://yadi.sk/i/hrnHB9DK3SeZRC) (russian)
 * __[main]__ lecture by David Silver - [url](https://www.youtube.com/watch?v=Nd1-UUMVfz4)
 * Alternative lecture by Pieter Abbeel (english): [part 1](https://www.youtube.com/watch?v=i0o-ui1N35U), [part 2](https://www.youtube.com/watch?v=Csiiv6WGzKM)
 * Alternative lecture by John Schulmann (english): [video](https://www.youtube.com/watch?v=IL3gVyJMmhg)
@@ -19,7 +19,7 @@
   * Monte-carlo tree search step-by-step by J.Levine - [video](https://www.youtube.com/watch?v=UXW2yZndl7U)
   * Guide to MCTS (monte-carlo tree search) - [post](http://www.cameronius.com/research/mcts/about/index.html)
   * Another guide to MCTS - [url](https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/)
-* Integrating learning and planning (D. Silver) - [video](https://www.youtube.com/watch?v=ItMutbeOHtc&t=1241s)
+* Integrating learning and planning (D. Silver) - [video](https://www.youtube.com/watch?v=ItMutbeOHtc)
 * Approximating the MCTS optimal actions - 5vision solution for deephack.RL, code by Mikhail Pavlov - [repo](https://github.com/5vision/uct_atari)
 
 
